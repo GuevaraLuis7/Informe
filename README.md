@@ -53,4 +53,23 @@ fuente negativa a la positiva en una batería. Se puede hacer uso de la ley de l
 
 ### Explicación del procedimiento
 
+<img src = Imagenes/Imagenes/tabla1.jpg width= "250"> 
+
+*Tabla I. Materiales y Equipo*
+
+#### Pasos a seguir 
+1)Iniciar el simulador y seleccionar los materiales a utilizar.
+
+2)Preparar la fuente de alimentación en 10V.
+
+3)Colocar el valor dado de las cinco resistencias que se encuentra en la guía de laboratorio.
+
+4)Elaborar un circuito con las cinco resistencias con la forma indicada en la guía, dando un voltaje de 10V.
+
+5)Medir las corrientes en cada nodo, tomando en cuenta los signos al entrar y salir del nodo.
+
+6)Obtener los voltajes en cada trayectoria cerrada, considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con signo negativo.
+
+####Procedimiento
+
 
