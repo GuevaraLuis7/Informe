@@ -26,6 +26,7 @@ Donde <img src = Imagenes/Imagenes/ie.jpg width= "25">  es la corriente de salid
 
 b. En toda malla la suma de todas las caídas de tensión es igual a la suma de todas las subidas de tensión.
 
+<img src = Imagenes/Imagenes/3.jpg width= "280">  (3)
 
 Donde V+ son las subidas de tensión y V-son las caídas de tensión.
 De forma equivalente, en toda la malla la suma algebraica de las diferenciales de     potencial eléctrico debe ser cero.
