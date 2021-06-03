@@ -70,6 +70,16 @@ fuente negativa a la positiva en una batería. Se puede hacer uso de la ley de l
 
 6)Obtener los voltajes en cada trayectoria cerrada, considerando las elevaciones de voltaje con signo positivo y las caídas de voltaje con signo negativo.
 
-####Procedimiento
+#### Procedimiento
 
+<img src = Imagenes/Imagenes/fig1.jpg width= "400"> 
 
+*Figura 1. Circuito resistivo mixto*
+
+<img src = Imagenes/Imagenes/fig2.jpg width= "400">
+
+*Figura 2. Circuito resistivo mixto,Identificando los nodos*
+
+<img src = Imagenes/Imagenes/fig3.jpg width= "400"> 
+
+*Figura 3. Circuito resistivo mixto,Identificando las trayectorias*
