@@ -30,3 +30,19 @@ b. En toda malla la suma de todas las caídas de tensión es igual a la suma de 
 
 Donde V+ son las subidas de tensión y V-son las caídas de tensión.
 De forma equivalente, en toda la malla la suma algebraica de las diferenciales de     potencial eléctrico debe ser cero.
+
+<img src = Imagenes/Imagenes/4.jpg width= "320">  (4)
+
+Resistencias en serie
+
+<img src = Imagenes/Imagenes/5.jpg width= "200">  (5)
+
+Resistencias en paralelo
+
+<img src = Imagenes/Imagenes/6.jpg width= "220">  (6)
+
+Formulas Adicionales
+
+<img src = Imagenes/Imagenes/7_8.jpg width= "150">    (7)
+                                                  
+
