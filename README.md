@@ -18,7 +18,7 @@ En el estudio de circuitos eléctricos no suele ser suficiente con manejar la le
 
 a.  En todo nodo la suma de las corrientes (1) que entran al nodo es igual a la suma de la corriente que salen.
 
-<img src = Imagenes/1.jpg width= "800">
-
+<img src = Imagenes/Imagenes/1.jpg width= "280">  (1)
+ 
 
 
