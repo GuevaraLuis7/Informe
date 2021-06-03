@@ -20,5 +20,5 @@ a.  En todo nodo la suma de las corrientes (1) que entran al nodo es igual a la 
 
 <img src = Imagenes/Imagenes/1.jpg width= "280">  (1)
  
-
+Donde <img src = Imagenes/Imagenes/ie.jpg width= "25">  es la corriente de salida e <img src = Imagenes/Imagenes/is.jpg width= "25">la corriente saliente.De igual forma, la suma de todas las corrientes que pasan por el nodo (entrante y saliente) es igual a cero.
 
