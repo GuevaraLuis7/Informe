@@ -51,3 +51,6 @@ Cuando la carga regresa al punto de partida, el sistema carga-circuito debe tene
 suma de las disminuciones de la energía conforme pasa a través de otros elementos. La energía potencial se reduce cada vez que la carga se mueve durante una caída de potencial – en un resistor o cada vez que se mueve en dirección contraria a causa de una
 fuente negativa a la positiva en una batería. Se puede hacer uso de la ley de la unión con tanta frecuencia como lo requiera, siempre y cuando escriba una ecuación incluya en ella una corriente general, el número de veces que pude utilizar la ley de la unión es una menos que el número de puntos de unión del circuito. Puede aplicar la ley de la espira las veces que lo necesite, siempre que aparezca en cada nueva ecuación un nuevo elemento del circuito (un resistor o una batería) o una nueva corriente. En general, para resolver un problema de circuito en particular, el número de ecuaciones independientes que se necesitan para obtener las dos leyes es igual al número de corrientes desconocidas.
 
+### Explicación del procedimiento
+
+
