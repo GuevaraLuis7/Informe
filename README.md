@@ -103,4 +103,6 @@ Los valores de corriente y voltaje son los siguientes:
 
 <img src = Imagenes/Imagenes/datos5.jpeg width= "220">
 
+Proceso para encontrar los valores de voltaje de cada resistencia
 
+<img src = Imagenes/Imagenes/datos6.jpeg width= "350">
