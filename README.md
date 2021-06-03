@@ -84,8 +84,23 @@ fuente negativa a la positiva en una batería. Se puede hacer uso de la ley de l
 
 *Figura 3. Circuito resistivo mixto,Identificando las trayectorias*
 
-<img src = Imagenes/Imagenes/datos.jpeg width= "150"> 
+<img src = Imagenes/Imagenes/datos.jpeg width= "110"> 
 
 Para hallar su voltaje, primero debemos calcular intensidad de cada malla
+
+<img src = Imagenes/Imagenes/datos2.jpeg width= "370">
+
+Sistema de ecuaciones 1 y 2
+
+<img src = Imagenes/Imagenes/datos3.jpeg width= "320">
+
+Resolviendo el sistema de ecuaciones:
+
+<img src = Imagenes/Imagenes/datos4.jpeg width= "120">
+
+
+Los valores de corriente y voltaje son los siguientes:
+
+<img src = Imagenes/Imagenes/datos5.jpeg width= "220">
 
 
