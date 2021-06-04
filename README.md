@@ -161,3 +161,10 @@ Las leyes de Kirchhof son muy importantes estudiarlas desde el principio de circ
 
 Con esta práctica de laboratorio así haya sido virtual se pudo llegar a evidenciar con este tipo de ejercicios lo aprendido durante las clases, lo sorprendente es saber como va mejorando la tecnología y con este tipo de simuladores podemos llegar hacer primero la simulación para en un futuro armar el proyecto y saber con certeza que funcionara.
 
+### Video
+
+### Cnclusiones
+
+### Anexo
+
+### Bibliografia
