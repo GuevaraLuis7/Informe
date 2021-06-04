@@ -106,3 +106,26 @@ Los valores de corriente y voltaje son los siguientes:
 Proceso para encontrar los valores de voltaje de cada resistencia
 
 <img src = Imagenes/Imagenes/datos6.jpeg width= "350">
+
+<img src = Imagenes/Imagenes/datos7.jpeg width= "550">
+
+<img src = Imagenes/Imagenes/datos8.jpeg width= "450">
+
+
+Para encontrar la resistencia en cada Nodo
+
+<img src = Imagenes/Imagenes/datos9.jpeg width= "590">
+
+<img src = Imagenes/Imagenes/datos10.jpeg width= "650">
+
+<img src = Imagenes/Imagenes/datos11.jpeg width= "500">
+
+<img src = Imagenes/Imagenes/datos12.jpeg width= "145">
+
+<img src = Imagenes/Imagenes/datos13.jpeg width= "620">
+
+<img src = Imagenes/Imagenes/datos14.jpeg width= "130">
+
+### Resultados
+
+
