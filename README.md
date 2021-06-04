@@ -167,5 +167,24 @@ Con esta práctica de laboratorio así haya sido virtual se pudo llegar a eviden
 
 ### Anexo
 
+<img src = Imagenes/Imagenes/anexo1.jpg width= "400">
+
+*Anexo 1 Circuito Tinkerkad*
+
+<img src = Imagenes/Imagenes/anexo2.jpg width= "400">
+
+*Anexo 2 Circuito Tinkerkad*
+
+<img src = Imagenes/Imagenes/anexo3.jpg width= "400">
+
+*Anexo 3 Circuito Tinkerkad*
+
+<img src = Imagenes/Imagenes/anexo4.jpg width= "400">
+
+*Anexo 4 Circuito Tinkerkad*
+
+<img src = Imagenes/Imagenes/anexo5.jpg width= "400">
+
+*Anexo 5 Circuito Tinkerkad*
 
 ### Bibliografia
