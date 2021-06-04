@@ -128,4 +128,18 @@ Para encontrar la resistencia en cada Nodo
 
 ### Resultados
 
+Tabla 1.1 Resultados obtenidos de Voltaje y Corriente, en cada elemento
+del circuito.
+
+<img src = Imagenes/Imagenes/tabla2.jpeg width= "550">
+
+Tabla 1. 2 Verificación de la LVK
+
+<img src = Imagenes/Imagenes/tabla3.jpeg width= "550">
+
+Tabla 1. 3 Verificación de la LCK
+
+<img src = Imagenes/Imagenes/tabla4.jpeg width= "550">
+
+<img src = Imagenes/Imagenes/tabla5.jpeg width= "550">
 
