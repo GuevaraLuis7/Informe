@@ -143,3 +143,21 @@ del circuito.*
 
 <img src = Imagenes/Imagenes/tabla5.jpeg width= "550">
 
+#### Porcentaje de error relativo entre los valores teóricos y los experimentales
+
+<img src = Imagenes/Imagenes/formula.jpeg width= "400">
+
+<img src = Imagenes/Imagenes/formula2.jpeg width= "275">
+
+<img src = Imagenes/Imagenes/formula3.jpeg width= "275">
+
+#### Análisis de los resultados
+
+Se pudo evidenciar mediante la Tabla 1.1 con el procedimiento teórico y experimental, no hubo tanta diferencia más clara hubo mucha similitud entre los valores de intensidad de corriente y voltaje. los valores no sobrepasan el 0.5% de error, con esto podemos concluir que las leyes de Kirchhoff, permiten de forma precisa determinar los valores de la corriente y voltaje, siendo la complejidad que sea se podría llegar a cálculos exactos.
+
+El porcentaje de error que se pudo evidenciar es de la forma teórica puesto que cada decimal puede afectar en el cálculo del error, aun asi hay que agradecer a los confiables simuladores que existen en el momento para confirmar los valores que obtenemos teóricamente.  
+
+Las leyes de Kirchhof son muy importantes estudiarlas desde el principio de circuitos eléctricos puesto que nos ayudará para manejar diferentes técnicas y con ello resolver circuitos complejos de manera ordenada y rápida.
+
+Con esta práctica de laboratorio así haya sido virtual se pudo llegar a evidenciar con este tipo de ejercicios lo aprendido durante las clases, lo sorprendente es saber como va mejorando la tecnología y con este tipo de simuladores podemos llegar hacer primero la simulación para en un futuro armar el proyecto y saber con certeza que funcionara.
+
