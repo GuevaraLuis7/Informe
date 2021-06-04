@@ -188,13 +188,13 @@ Con esta práctica de laboratorio así haya sido virtual se pudo llegar a eviden
 *Anexo 5 Circuito Tinkerkad*
 
 ### Bibliografia
-Daza, J. D. (19 de Abril de 2021). Tinkerkad. Obtenido de Tinkerkad: https://www.tinkercad.com/things/fuUztFT9jVM-leyes-de-kirchhoff
+- Daza, J. D. (19 de Abril de 2021). Tinkerkad. Obtenido de Tinkerkad: https://www.tinkercad.com/things/fuUztFT9jVM-leyes-de-kirchhoff
 
-Gómez, A. J. (Julio de 2019). Universidad de los Andes. Obtenido de Universidad de los Andes: http://wwwprof.uniandes.edu.co/~ant-sala/cursos/FDC/Contenidos/02_Leyes_de_Voltajes_y_Corrientes_de_Kirchhoffs.pdf
+- Gómez, A. J. (Julio de 2019). Universidad de los Andes. Obtenido de Universidad de los Andes: http://wwwprof.uniandes.edu.co/~ant-sala/cursos/FDC/Contenidos/02_Leyes_de_Voltajes_y_Corrientes_de_Kirchhoffs.pdf
 
-González, A. G. (29 de Marzo de 2021). Panamahitek. Obtenido de http://panamahitek.com/ley-de-las-corrientes-de-kirchhoff-metodo-de-nodos/
+- González, A. G. (29 de Marzo de 2021). Panamahitek. Obtenido de http://panamahitek.com/ley-de-las-corrientes-de-kirchhoff-metodo-de-nodos/
 
-McAllister., W. (Enero de 2017). Khan Academy. Obtenido de Khan Academy: https://es.khanacademy.org/science/physics/circuits-topic/circuits-resistance/a/ee-kirchhoffs-laws
+- McAllister., W. (Enero de 2017). Khan Academy. Obtenido de Khan Academy: https://es.khanacademy.org/science/physics/circuits-topic/circuits-resistance/a/ee-kirchhoffs-laws
 
-Wikipedia.org. (08 de Mayo de 2020). Wikipedia. Obtenido de Wikipedia: https://es.wikipedia.org/wiki/Leyes_de_Kirchhoff 
+- Wikipedia.org. (08 de Mayo de 2020). Wikipedia. Obtenido de Wikipedia: https://es.wikipedia.org/wiki/Leyes_de_Kirchhoff 
 
