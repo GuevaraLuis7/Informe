@@ -163,7 +163,13 @@ Con esta práctica de laboratorio así haya sido virtual se pudo llegar a eviden
 
 ### Video
 
+https://youtu.be/A9cJlHigH84
+
+
 ### Conclusiones
+- Las leyes de Kirchhoff resultan de vital importancia ya que requerimos el manejo de técnicas que nos permitieron resolver circuitos complejos de manera rápida y efectiva,  además, estas leyes nos permitieron analizar dichos problemas por medio de dos técnicas: Mallas y Nodos.
+
+- Este laboratorio resultó de gran ayuda, ya que pudimos armar circuitos con más de una resistencia colocándola en serie y paralelo, lo que hace que los laboratorios resulten de mayor interés para ampliar aún más nuestros conocimientos lo que podemos decir que pulimos estas grandes leyes de Kirchhoff.
 
 ### Anexo
 
