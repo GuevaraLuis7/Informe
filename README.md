@@ -163,7 +163,7 @@ Con esta práctica de laboratorio así haya sido virtual se pudo llegar a eviden
 
 ### Video
 
-### Cnclusiones
+### Conclusiones
 
 ### Anexo
 
